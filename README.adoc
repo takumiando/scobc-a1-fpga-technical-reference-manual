@@ -4,4 +4,4 @@
 
 SC-OBC-A1 FPGAの開発や、ソフトウェアの開発に必要な、FPGA機能に関する仕様やレジスタの仕様が記載されています。
 
-https://spacecubics.github.io/sc-docs/[https://spacecubics.github.io/sc-docs/] で読む事ができます。
+https://docs.spacecubics.com[https://docs.spacecubics.com] で読む事ができます。
